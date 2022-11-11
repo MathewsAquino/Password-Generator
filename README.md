@@ -1,1 +1,1 @@
-# This proejct is up to generate random passwords through the page.
+# This project is up to generate random passwords through the page.
