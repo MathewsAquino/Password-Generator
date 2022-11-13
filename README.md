@@ -1,6 +1,11 @@
 # This is a Password-Generator app. You are able to generate a random password using the elements listed in the boxes and changing the length of it.   
  Click on the button to generate a new password, mark or unmark the boxes to apply changes on the password.
+Try it on : https://mathewsaquino.github.io/Password-Generator/
  
+
+https://user-images.githubusercontent.com/110079411/201548315-10dfbea2-79dd-4b14-8377-53243a8fddde.mp4
+
+
  
 ## The conditions to generate the password are : At least one box should be marked, and the minimum length is ''4'' .
 Example : 
